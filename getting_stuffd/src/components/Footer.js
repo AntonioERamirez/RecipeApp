@@ -24,9 +24,9 @@ const Footer = () => {
                     </Column>
                     <Column>
                         <Heading>Contact Us</Heading>
-                        <FooterLink href="#">Wesley Bernard</FooterLink>
-                        <FooterLink href="#">Lucas Collins</FooterLink>
-                        <FooterLink href="#">Antonio Ramirez</FooterLink>
+                        <FooterLink href="#">wesleybernard15@gmail.com</FooterLink>
+                        <FooterLink href="#">Lucas@email.com</FooterLink>
+                        <FooterLink href="#">Antonio@email.com</FooterLink>
                     </Column>
                     <Column>
                         <Heading>Social Media</Heading>
