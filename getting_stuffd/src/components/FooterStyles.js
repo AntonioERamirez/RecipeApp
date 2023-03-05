@@ -27,13 +27,15 @@ display: flex;
 flex-direction: column;
 text-align: left;
 margin-left: 60px;
+color: white;
+width:  250px
 `;
 
 export const Row = styled.div`
 display: grid;
 grid-template-columns: repeat(auto-fill,
 						minmax(185px, 1fr));
-grid-gap: 20px;
+grid-gap: 200px;
 
 @media (max-width: 1000px) {
 	grid-template-columns: repeat(auto-fill,

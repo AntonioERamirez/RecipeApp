@@ -20,23 +20,13 @@ const Footer = () => {
                 <Row>
                     <Column>
                         <Heading>About Us</Heading>
-                        <FooterLink href="#">Wesley</FooterLink>
-                        <FooterLink href="#">Antonio</FooterLink>
-                        <FooterLink href="#">Lucas</FooterLink>
-                    </Column>
-                    <Column>
-                        <Heading>Services</Heading>
-                        <FooterLink href="#">Writing</FooterLink>
-                        <FooterLink href="#">Internships</FooterLink>
-                        <FooterLink href="#">Coding</FooterLink>
-                        <FooterLink href="#">Teaching</FooterLink>
+                        A pog lil project where we are showing you what you can make with the ingredients you have in your fridge. This was motivated by the fact that we are too lazy to grocery shop on a regular basis so this is our way of enabling ourselves to shop less.
                     </Column>
                     <Column>
                         <Heading>Contact Us</Heading>
-                        <FooterLink href="#">Uttar Pradesh</FooterLink>
-                        <FooterLink href="#">Ahemdabad</FooterLink>
-                        <FooterLink href="#">Indore</FooterLink>
-                        <FooterLink href="#">Mumbai</FooterLink>
+                        <FooterLink href="#">Wesley Bernard</FooterLink>
+                        <FooterLink href="#">Lucas Collins</FooterLink>
+                        <FooterLink href="#">Antonio Ramirez</FooterLink>
                     </Column>
                     <Column>
                         <Heading>Social Media</Heading>
@@ -61,10 +51,10 @@ const Footer = () => {
 				</span>
                             </i>
                         </FooterLink>
-                        <FooterLink href="#">
+                        <FooterLink href="https://github.com/WesleyBernard" target="_blank">
                             <i className="fab fa-youtube">
 				<span style={{ marginLeft: "10px" }}>
-				Youtube
+				Github
 				</span>
                             </i>
                         </FooterLink>
